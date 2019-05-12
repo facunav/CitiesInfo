@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Dtos.PointsOfInterest>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PointOfInterestId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <a href="/api/pointsofinterest/@item.PointOfInterestId">Edit</a> ||
+                    <a href="/api/pointsofinterest/delete/@item.PointOfInterestId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <hr />
+    <a href="/api/pointsofinterest/create">Create Points Of Interest</a>
+    <hr />
+</table>
+

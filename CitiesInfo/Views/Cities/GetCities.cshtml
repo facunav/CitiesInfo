@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Dtos.City>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<p>The UI is basic only to show the functionality because the example is to show BE code.</p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Description
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CityId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        <a href="/api/pointsofinterest/@item.CityId/pointsofinterest">PointsOfInterest</a> ||
+                        <a href="/api/cities/@item.CityId">Edit</a> ||
+                        <a href="/api/cities/delete/@item.CityId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <hr />
+    <form method="post">
+        <a href="/api/cities/create">Create City</a>
+        <hr />
+    </table>

@@ -1,0 +1,8 @@
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\bin\Debug\netcoreapp2.1\Dtos.deps.json
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\bin\Debug\netcoreapp2.1\Dtos.dll
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\bin\Debug\netcoreapp2.1\Dtos.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\obj\Debug\netcoreapp2.1\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\obj\Debug\netcoreapp2.1\Dtos.AssemblyInfoInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\obj\Debug\netcoreapp2.1\Dtos.AssemblyInfo.cs
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\obj\Debug\netcoreapp2.1\Dtos.dll
+C:\Users\Colo\source\repos\CitiesInfo\Dtos\obj\Debug\netcoreapp2.1\Dtos.pdb

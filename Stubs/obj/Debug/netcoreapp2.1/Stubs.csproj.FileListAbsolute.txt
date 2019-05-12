@@ -1,0 +1,14 @@
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Stubs.deps.json
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Stubs.dll
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Stubs.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Dtos.dll
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\bin\Debug\netcoreapp2.1\Dtos.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.csprojAssemblyReference.cache
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.csproj.CoreCompileInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.AssemblyInfoInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.AssemblyInfo.cs
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.csproj.CopyComplete
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.dll
+C:\Users\Colo\source\repos\CitiesInfo\Stubs\obj\Debug\netcoreapp2.1\Stubs.pdb

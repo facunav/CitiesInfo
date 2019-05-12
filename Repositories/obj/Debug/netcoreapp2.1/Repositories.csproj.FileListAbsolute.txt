@@ -1,0 +1,14 @@
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\Colo\source\repos\CitiesInfo\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb

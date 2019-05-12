@@ -1,0 +1,11 @@
+C:\Users\Colo\source\repos\CitiesInfo\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Colo\source\repos\CitiesInfo\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\Colo\source\repos\CitiesInfo\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\Colo\source\repos\CitiesInfo\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Colo\source\repos\CitiesInfo\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Colo\source\repos\CitiesInfo\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Colo\source\repos\CitiesInfo\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Colo\source\repos\CitiesInfo\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Colo\source\repos\CitiesInfo\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
